@@ -1,0 +1,6 @@
+@ReleaseNotes.ai.service_HostAddress = http://localhost:5148
+
+GET {{ReleaseNotes.ai.service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
